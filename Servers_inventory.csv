@@ -1,0 +1,6 @@
+FQDN,Server_IP,OS_TYPE,OS_VERSION,CPU_INFO,ARCH_TYPE
+acn-doi-dev01.dhcp.broadcom.net,10.17.164.244, CentOS Linux ,7.7.1908,Intel(R) Xeon(R) Gold 5120 CPU @ 2.20GHz,x86_64
+acn-doi-dev01.dhcp.broadcom.net,10.17.174.194, CentOS Linux ,7.7.1908,Intel(R) Xeon(R) Gold 5120 CPU @ 2.20GHz,x86_64
+acn-doi-dev01.dhcp.broadcom.net,10.17.188.28, CentOS Linux ,7.7.1908,Intel(R) Xeon(R) Gold 5120 CPU @ 2.20GHz,x86_64
+acn-doi-dev01.dhcp.broadcom.net,10.17.164.41, Red Hat Enterprise Linux Server ,7.7,Intel(R) Xeon(R) Gold 5120 CPU @ 2.20GHz,x86_64
+acn-doi-dev01.dhcp.broadcom.net,10.17.189.119, Red Hat Enterprise Linux Server ,7.6,Intel(R) Xeon(R) Gold 5120 CPU @ 2.20GHz,x86_64
